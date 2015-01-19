@@ -1,0 +1,19 @@
+permalink: :year-:month-:day-:title 
+
+highlighter: pygments
+markdown: kramdown
+
+title : Orbitist
+tagline: Science News in the Great Lakes
+author : 
+  name : Orbitist Support
+  email : support@orbitist.com
+  github : Orbitist
+  twitter : TheOrbitist
+  web : http://www.orbitist.com
+
+production_url : orbitist.com
+
+baseurl : http://orbitist.com
+  
+timezone : America/New_York
